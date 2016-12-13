@@ -8,17 +8,17 @@
 
 #include <iostream>
 
-using namespace std;
+<<<<<<< HEAD
+using namespace stdx;
+=======
+using namespace stdy;
+>>>>>>> 7b381da55dceec590caf9fb144d978dd6d31eebd
 
 int monedas(int N);
 
 int main() {
    
-<<<<<<< HEAD
-    int N = 50;
-=======
-    int N = 51;
->>>>>>> branch1.1
+    int N = 59;
     int x;
     
     
