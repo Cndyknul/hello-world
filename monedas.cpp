@@ -40,7 +40,7 @@ int main() {
 int monedas(int N){
     int numero = 100000;
     int num10;
-    int varnum10,varnum5,varnum2,varnum1;
+    int varnum10,varnum5,varnum2,varnum1,varnum1;
     int divnum10,divnum5,divnum2;
     int restanum10,restanum5,restanum2;
 
