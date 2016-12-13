@@ -14,7 +14,7 @@ int monedas(int N);
 
 int main() {
    
-    int N = 59;
+    int N = 1000;
     int x;
     
     
