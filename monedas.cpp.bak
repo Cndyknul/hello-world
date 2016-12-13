@@ -14,7 +14,11 @@ int monedas(int N);
 
 int main() {
    
-    int N = 101;
+<<<<<<< HEAD
+    int N = 50;
+=======
+    int N = 51;
+>>>>>>> branch1.1
     int x;
     
     
@@ -40,11 +44,7 @@ int main() {
 int monedas(int N){
     int numero = 100000;
     int num10;
-<<<<<<< HEAD
     int varnum10,varnum5,varnum2,varnum1,varnum1;
-=======
-    int varnum10,varnum5,varnum2,varnum1,varnum3;
->>>>>>> branch1.1
     int divnum10,divnum5,divnum2;
     int restanum10,restanum5,restanum2;
 
