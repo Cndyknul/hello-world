@@ -9,10 +9,10 @@
 #include <iostream>
 
 <<<<<<< HEAD
-using namespace stdx;
+using namespace stdxx;
 =======
-using namespace stdy;
->>>>>>> 7b381da55dceec590caf9fb144d978dd6d31eebd
+using namespace stdyy;
+>>>>>>> branch1.1
 
 int monedas(int N);
 
