@@ -8,7 +8,7 @@
 
 #include <iostream>
 
-using namespace std;
+using namespace stdx;
 
 int monedas(int N);
 
