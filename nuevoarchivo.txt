@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dfdfdgfgfhnuevo fgharchivpfjdngkfdjngfjngfjd sfdhhghgfjsff, otro cambio, fgdgfdgfdgf
 dfdfggfgfgfgholahola
+=======
+hola nuevodfsfsfsdfdsfdsfgfhfhfjhjgjy
+cambiodelinea
+>>>>>>> master
